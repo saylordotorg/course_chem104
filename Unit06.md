@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM104: Organic Chemistry II"
+course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Aldehydes & Ketones** <span id="6"></span> 
 *Aldehydes and ketones are the first compounds we have seen in this
 course that contain the carbonyl functional group.  This group entails a
