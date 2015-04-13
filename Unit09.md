@@ -1,10 +1,3 @@
----
-layout: default
-title: "CHEM104: Organic Chemistry II"
-course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
-next: ../Unit10
-previous: ../Unit08
----
 **Unit 9: Enols and Enolates and Alpha Substituted Carbons** <span
 id="9"></span> 
 *This short unit will deal with just enols and enolates.  The reactions

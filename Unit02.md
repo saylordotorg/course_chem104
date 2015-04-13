@@ -1,10 +1,3 @@
----
-layout: default
-title: "CHEM104: Organic Chemistry II"
-course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
-next: ../Unit03
-previous: ../Unit01
----
 **Unit 2: Thiols and Sulfides** <span id="2"></span> 
 *Thiols and sulfides are the "sulfur equivalent" of alcohols and ethers.
  You can replace the oxygen atom of an alcohol with a sulfur atom to
