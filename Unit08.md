@@ -1,3 +1,10 @@
+----
+-layout: default
+-title: "CHEM104: Organic Chemistry II"
+-course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+-next: ../Unit09
+-previous: ../Unit07
+----
 **Unit 8: Carboxylic Acid Derivatives: Esters, Amides, Anhydrides, and
 Acyl Halides** <span id="8"></span> 
 *Substitution of the OH group in carboxylic acids can yield a variety of

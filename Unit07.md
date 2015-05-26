@@ -1,3 +1,10 @@
+----
+-layout: default
+-title: "CHEM104: Organic Chemistry II"
+-course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+-next: ../Unit08
+-previous: ../Unit06
+----
 **Unit 7: Carboxylic Acids** <span id="7"></span> 
 *Carboxylic acids are characterized by the presence of a COOH group in
 the molecular structure.  This group is called the carboxyl group.

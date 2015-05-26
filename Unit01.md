@@ -1,3 +1,10 @@
+----
+-layout: default
+-title: "CHEM104: Organic Chemistry II"
+-course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+-next: ../Unit02
+-previous: ../Intro
+----
 **Unit 1: Ethers and Epoxides** <span id="1"></span> 
 *Ethers can be distinguished by their carbon-oxygen-carbon bridge
 (C-O-C).  Ethers are often used as solvents in organic reactions that

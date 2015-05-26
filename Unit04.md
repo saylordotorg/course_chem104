@@ -1,3 +1,10 @@
+----
+-layout: default
+-title: "CHEM104: Organic Chemistry II"
+-course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+-next: ../Unit05
+-previous: ../Unit03
+----
 **Unit 4: Benzene and the Other Aromatic Compounds** <span
 id="4"></span> 
 *Benzene is considered the "parent" molecule of all aromatic compounds.
