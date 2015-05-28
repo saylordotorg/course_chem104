@@ -1,10 +1,10 @@
-----
--layout: default
--title: "CHEM104: Organic Chemistry II"
--course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
--next: ../../../
--previous: ../Unit11
-----
+---
+layout: default
+title: "CHEM104: Organic Chemistry II"
+course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+next: ../../../
+previous: ../Unit11
+---
 **Unit 12: Final Exam** <span id="12"></span> 
 -   **Final Exam: The Saylor Foundation's CHEM104 Final Exam**
     Link: The Saylor Foundation's [CHEM104 Final
