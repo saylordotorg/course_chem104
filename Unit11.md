@@ -1,10 +1,10 @@
-----
--layout: default
--title: "CHEM104: Organic Chemistry II"
--course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
--next: ../Unit12
--previous: ../Unit10
-----
+---
+layout: default
+title: "CHEM104: Organic Chemistry II"
+course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Spectroscopy** <span id="11"></span> 
 *After you perform a reaction in a chemistry lab, how do you know
 whether it actually worked?  Spectroscopy is the answer!  Spectroscopy
