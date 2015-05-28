@@ -1,10 +1,10 @@
-----
--layout: default
--title: "CHEM104: Organic Chemistry II"
--course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
--next: ../Unit01
--previous: ../../../
-----
+---
+layout: default
+title: "CHEM104: Organic Chemistry II"
+course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CHEM104: Organic Chemistry II"
 ---------------------------------------------------
 
