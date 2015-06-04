@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM104: Organic Chemistry II"
+course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Conjugated Dienes** <span id="3"></span> 
 *Conjugated dienes are “special alkenes” in the sense that these
 molecules have two C=C separated by a C-C.  This structure is known as a

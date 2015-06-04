@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM104: Organic Chemistry II"
+course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Molecules of Biological Importance** <span id="10"></span> 
 *The human body functions through thousands of chemical reactions
 happening every minute, either sequentially or simultaneously.  The

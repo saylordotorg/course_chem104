@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM104: Organic Chemistry II"
+course_description: "An examination of the nomenclature, properties, and reactivity of ethers and epoxides, thiols and sulfides, conjugated dienes, benzene and other aromatic compounds, amines, aldehydes and ketones, carboxylic acids, carboxylic acid derivatives, and enols and enolates."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Amines** <span id="5"></span> 
 *Amines are organic compounds containing a nitrogen atom in a low
 oxidation state.  This nitrogen retains its lone pair of electrons and
