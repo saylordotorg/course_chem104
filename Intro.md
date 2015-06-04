@@ -155,3 +155,18 @@ progress through this course, try taking a break to review
 careful notes on a separate sheet of paper.  Draw each reaction type,
 including both reagents and products.  Then, you can use this sheet to
 review for your Final Exam. 
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/chem104/Unit01/)
+- [Unit 2](https://legacy.saylor.org/chem104/Unit02/)
+- [Unit 3](https://legacy.saylor.org/chem104/Unit03/)
+- [Unit 4](https://legacy.saylor.org/chem104/Unit04/)
+- [Unit 5](https://legacy.saylor.org/chem104/Unit05/)
+- [Unit 6](https://legacy.saylor.org/chem104/Unit06/)
+- [Unit 7](https://legacy.saylor.org/chem104/Unit07/)
+- [Unit 8](https://legacy.saylor.org/chem104/Unit08/)
+- [Unit 9](https://legacy.saylor.org/chem104/Unit09/)
+- [Unit 10](https://legacy.saylor.org/chem104/Unit10/)
+- [Unit 11](https://legacy.saylor.org/chem104/Unit11/)
+- [Unit 12](https://legacy.saylor.org/chem104/Unit12/)
