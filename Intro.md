@@ -178,3 +178,4 @@ review for your Final Exam. 
 - [Unit 10](https://legacy.saylor.org/chem104/Unit10/)
 - [Unit 11](https://legacy.saylor.org/chem104/Unit11/)
 - [Unit 12](https://legacy.saylor.org/chem104/Unit12/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM104/CHEM104-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM104/CHEM104-FinalExam-Answers.html)
