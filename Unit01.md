@@ -63,7 +63,7 @@ Upon successful completion of this unit, the student will be able to:
       
      Terms of Use: These videos are licensed under a [Creative Commons
     Attribution-NonCommercial-NoDerives United States License
-    3.0](https://resources.saylor.org/archived/wp-admin/edit.php?post_type=courses&page=say_manage_courses&cmd=units&pid=52600).
+    3.0](https://resources.saylor.org/wwwresources/archived/site/wp-admin/edit.php?post_type=courses&page=say_manage_courses&cmd=units&pid=52600).
      They are attributed to the Khan Academy. 
 
 -   **Reading: Michigan State University: Professor William Reusch’s
@@ -430,7 +430,7 @@ Upon successful completion of this unit, the student will be able to:
       
      Terms of Use: These videos are licensed under a [Creative Commons
     Attribution-NonCommercial-NoDerives United States License
-    3.0](https://resources.saylor.org/archived/wp-admin/edit.php?post_type=courses&page=say_manage_courses&cmd=units&pid=52600).
+    3.0](https://resources.saylor.org/wwwresources/archived/site/wp-admin/edit.php?post_type=courses&page=say_manage_courses&cmd=units&pid=52600).
      They are attributed to the Khan Academy. 
 
 
