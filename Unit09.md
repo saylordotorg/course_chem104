@@ -70,7 +70,7 @@ Derivatives** <span id="9.1"></span> 
       
      Terms of Use: This video is licensed under a [Creative Commons
     Attribution-NonCommercial-NoDerives United States License
-    3.0](https://resources.saylor.org/archived/wp-admin/edit.php?post_type=courses&page=say_manage_courses&cmd=units&pid=52600).
+    3.0](https://resources.saylor.org/wwwresources/archived/site/wp-admin/edit.php?post_type=courses&page=say_manage_courses&cmd=units&pid=52600).
      It is attributed to the Khan Academy. 
 
 -   **Web Media: YouTube: Freelanceteach’s “Aldol Condensation Reaction
